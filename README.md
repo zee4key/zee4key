@@ -7,6 +7,7 @@ Developer, designer and so more
 * 🌍  I'm based in Astana
 * ✉️  You can contact me at [zeefourkey@gmail.com](mailto:zeefourkey@gmail.com)
 * 🚀  I'm currently working on [ZK | Coding Academy](http://z4k.vercel.app)
+* 📖  I'm studying at Astana IT University as Software Engineer
 * 🧠  I'm learning Web frameworks, AI Engineering, Linux, API
 * 🤝  I'm open to collaborating on ZK | Coding Academy
 * ⚡  Sometimes love making music, games and such more for fun
